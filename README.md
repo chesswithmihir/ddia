@@ -1,6 +1,5 @@
-﻿# Designing Data-Intensive Applications
+﻿# Designing Data-Intensive Applications By Marktin Kleppmann
 ## The big ideas behind reliable, scalable, and maintainable systems
-### By Marktin Kleppmann
 ### Notes by Mihir Mirchandani
 ---
 

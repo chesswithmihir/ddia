@@ -6,6 +6,7 @@
 ## Table of Contents
 
 1. [Reliable, Scalable, and Maintainable Applications](01.md)
+- introduces terminology and approaches through this book while considering R, S, and M.
 2. [Data Models and Query Languages](02.md)
 3. [Storage and Retrieval](03.md)
 4. [Encoding and Evolution](04.md)

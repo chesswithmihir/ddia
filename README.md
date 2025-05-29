@@ -5,9 +5,9 @@
 
 ## Table of Contents
 
-1. [Reliable, Scalable, and Maintainable Applications](01.md)
+### 1. [Reliable, Scalable, and Maintainable Applications](01.md)
 - introduces terminology and approaches through this book while considering R, S, and M.
-2. [Data Models and Query Languages](02.md)
+### 2. [Data Models and Query Languages](02.md)
 - compares several data modesl and query languages and the tradeoffs
 3. [Storage and Retrieval](03.md)
 - internals of storage engines and looks at how db layout data on disk
